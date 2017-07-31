@@ -1,0 +1,17 @@
+{
+	"help": {
+		"endpoint": "#",
+		"help": "help [command](optional)",
+		"description": "To get help on all supported commands, or a specified command"
+	},
+	
+    "add": {
+        "alias": [ "madd" ],
+        "help": "add [topic]",
+        "description": "Adds a meeting topic to the list."
+    },
+
+	"error": {
+		"exclude": true
+	}
+}
