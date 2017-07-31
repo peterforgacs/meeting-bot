@@ -1,0 +1,19 @@
+{
+  "name": "meeting-bot",
+  "version": "1.0.1",
+  "description": "Slack bot to manage meeting topics",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.65.0",
+    "slack-terminalize": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "meeting"
+  ],
+  "author": "Peter Forgacs <peter.forgacs3@gmail.com>",
+  "license": "MIT"
+}
